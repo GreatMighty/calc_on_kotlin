@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="numberButton">
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:background">@drawable/number_btn</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="ActionButton">
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:background">@drawable/action_btn</item>
+        <item name="android:textSize">30sp</item>
+
+    </style>
+</resources>
